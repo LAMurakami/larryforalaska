@@ -1,0 +1,134 @@
+/** Buttons **/
+
+.BlueButton {
+height:18px;
+width:75px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_blue.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.GreyButton {
+height:18px;
+width:75px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_grey.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.RedButton {
+height:18px;
+width:75px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_red.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BigBlueButton {
+height:18px;
+width:115px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_blue_big.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BigGreyButton {
+height:18px;
+width:115px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_grey_big.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BigRedButton {
+height:18px;
+width:115px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_red_big.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BiggerRedButton {
+height:18px;
+width:145px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_red_bigger.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BiggerBlueButton {
+height:18px;
+width:145px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_blue_bigger.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BiggerGreyButton {
+height:18px;
+width:145px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_grey_bigger.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.RedButton3 {
+height:18px;
+width:188px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_red_3.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
+
+.BiggestRedButton {
+    height:18px;
+    width:300px;
+    color:#FFF;
+    cursor:hand;
+    cursor:pointer;
+    background:transparent url(../Images/button_red_biggest.gif) no-repeat center;
+    border-style:none;
+    margin:0 5px;
+    font-weight:bold;
+}
+
+.BiggestGreyButton {
+height:18px;
+width:300px;
+color:#FFF;
+cursor:hand;
+cursor:pointer;
+background:transparent url(../Images/button_grey_biggest.gif) no-repeat center;
+border-style:none;
+margin:0 5px;
+}
